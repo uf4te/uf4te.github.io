@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /posts/ 
+Allow: /about/ 
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /app/
+
+Sitemap: https://www.uf4te.cn/sitemap.xml
+Sitemap: https://www.uf4te.cn/baidusitemap.xml
