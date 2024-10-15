@@ -6,7 +6,7 @@
   <link href="https://www.uf4te.cn/atom.xml" rel="self"/>
   
   <link href="https://www.uf4te.cn/"/>
-  <updated>2024-10-14T15:20:58.000Z</updated>
+  <updated>2024-10-15T09:48:03.000Z</updated>
   <id>https://www.uf4te.cn/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="https://www.uf4te.cn/posts/f5dbafd0.html"/>
     <id>https://www.uf4te.cn/posts/f5dbafd0.html</id>
     <published>2024-10-14T15:06:13.000Z</published>
-    <updated>2024-10-14T15:20:58.000Z</updated>
+    <updated>2024-10-15T09:48:03.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="安装-AFL"><a href="#安装-AFL" class="headerlink" title="安装 AFL++"></a>安装 AFL++</h1><blockquote><p>AFL++ 又叫 AFLplusplus，是 Google 的 AFL 的一个分支，具有更快的速度，更多的突变，更多的自定义模块等</p><p>参考文章：<a href="https://www.anquanke.com/post/id/269066">IOT Fuzzing框架AFL++ （上）-安全客 - 安全资讯平台</a></p></blockquote><p>首先安装依赖：</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">sudo</span> <span class="token function">apt</span> update<span class="token function">sudo</span> <span class="token function">apt</span> <span class="token function">install</span> <span class="token function">git</span> <span class="token function">make</span> build-essential clang ninja-build pkg-config libglib2.0-dev libpixman-1-dev<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>获取远程仓库，并构建 QEMU 环境支持：（<strong>因为大部分 IOT 固件架构不是 x86 的，可能是 arm 或者 mips，因此需要 QEMU 环境进行仿真才能 fuzz</strong>）</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token function">git</span> clone https://github.com/AFLplusplus/AFLplusplus.git<span class="token builtin class-name">cd</span> AFLplusplus<span class="token function">make</span> all<span class="token builtin class-name">cd</span> qemu_mode<span class="token comment"># 指定 ARM 架构</span><span class="token assign-left variable">CPU_TARGET</span><span class="token operator">=</span>arm ./build_qemu_support.sh<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h1 id=&quot;安装-AFL&quot;&gt;&lt;a href=&quot;#安装-AFL&quot; class=&quot;headerlink&quot; title=&quot;安装 AFL++&quot;&gt;&lt;/a&gt;安装 AFL++&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;AFL++ 又叫 AFLplusplus，是 Google 的 AFL 的</summary>
-      
+    <summary type="html">涉及到 AFL++ 的环境搭建和一些基础的 Fuzz 操作，算作是使用 Fuzz 进行漏洞挖掘的入门吧，CTF 通常是单个程序因此不常使用 Fuzz，但是在现实的大项目中 Fuzz 是很好用的利器</summary>
     
     
     
@@ -283,9 +279,9 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
-    
     <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -329,11 +325,11 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
+    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
     
     <category term="Bypass" scheme="https://www.uf4te.cn/tags/Bypass/"/>
     
-    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -354,13 +350,13 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
+    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
     
     <category term="Bypass" scheme="https://www.uf4te.cn/tags/Bypass/"/>
     
-    <category term="栈迁移" scheme="https://www.uf4te.cn/tags/%E6%A0%88%E8%BF%81%E7%A7%BB/"/>
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
-    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    <category term="栈迁移" scheme="https://www.uf4te.cn/tags/%E6%A0%88%E8%BF%81%E7%A7%BB/"/>
     
   </entry>
   
@@ -381,11 +377,11 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
+    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
     
     <category term="Bypass" scheme="https://www.uf4te.cn/tags/Bypass/"/>
     
-    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -406,9 +402,9 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
-    
     <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -456,9 +452,9 @@
     
     <category term="CTF" scheme="https://www.uf4te.cn/tags/CTF/"/>
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
-    
     <category term="Bypass" scheme="https://www.uf4te.cn/tags/Bypass/"/>
+    
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -479,9 +475,9 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
-    
     <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -502,11 +498,11 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
+    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
+    
     <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
     <category term="格式化字符串" scheme="https://www.uf4te.cn/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
-    
-    <category term="Writeup" scheme="https://www.uf4te.cn/tags/Writeup/"/>
     
   </entry>
   

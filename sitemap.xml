@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.uf4te.cn/posts/c695aa69.html</loc>
+    <loc>https://www.uf4te.cn/posts/f5dbafd0.html</loc>
     
     <lastmod>2024-10-15</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/f5dbafd0.html</loc>
+    <loc>https://www.uf4te.cn/posts/c695aa69.html</loc>
     
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2024-10-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -452,7 +452,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/89729f60.html</loc>
+    <loc>https://www.uf4te.cn/posts/1cb138a7.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/1cb138a7.html</loc>
+    <loc>https://www.uf4te.cn/posts/89729f60.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/5090002e.html</loc>
+    <loc>https://www.uf4te.cn/posts/d36e35d8.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/d36e35d8.html</loc>
+    <loc>https://www.uf4te.cn/posts/5090002e.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1109,7 +1109,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/874a8fd2.html</loc>
+    <loc>https://www.uf4te.cn/posts/bbb01dd.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1118,7 +1118,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/bbb01dd.html</loc>
+    <loc>https://www.uf4te.cn/posts/874a8fd2.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1154,7 +1154,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/782a6e38.html</loc>
+    <loc>https://www.uf4te.cn/posts/bfc7c122.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1163,7 +1163,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/bfc7c122.html</loc>
+    <loc>https://www.uf4te.cn/posts/782a6e38.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1418,7 +1418,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/Pwn/</loc>
+    <loc>https://www.uf4te.cn/tags/Writeup/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1432,7 +1432,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/x86%E6%B1%87%E7%BC%96/</loc>
+    <loc>https://www.uf4te.cn/tags/Pwn/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1453,14 +1453,14 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E6%A0%88%E8%BF%81%E7%A7%BB/</loc>
+    <loc>https://www.uf4te.cn/tags/x86%E6%B1%87%E7%BC%96/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
+    <loc>https://www.uf4te.cn/tags/%E6%A0%88%E8%BF%81%E7%A7%BB/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1488,7 +1488,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/Writeup/</loc>
+    <loc>https://www.uf4te.cn/tags/%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1565,14 +1565,14 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</loc>
+    <loc>https://www.uf4te.cn/tags/%E5%9B%BA%E4%BB%B6%E8%A7%A3%E5%AF%86/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E5%9B%BA%E4%BB%B6%E8%A7%A3%E5%AF%86/</loc>
+    <loc>https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</loc>
     <lastmod>2024-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
