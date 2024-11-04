@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/92acfead.html</loc>
+    <loc>https://www.uf4te.cn/posts/7a9990fc.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -443,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/7a9990fc.html</loc>
+    <loc>https://www.uf4te.cn/posts/92acfead.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1136,7 +1136,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/bbb01dd.html</loc>
+    <loc>https://www.uf4te.cn/posts/874a8fd2.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1145,7 +1145,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/posts/874a8fd2.html</loc>
+    <loc>https://www.uf4te.cn/posts/bbb01dd.html</loc>
     
     <lastmod>2024-06-05</lastmod>
     
@@ -1418,7 +1418,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/Bypass/</loc>
+    <loc>https://www.uf4te.cn/tags/Writeup/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1432,7 +1432,28 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/Pwntools/</loc>
+    <loc>https://www.uf4te.cn/tags/Bypass/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.uf4te.cn/tags/ORW/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.uf4te.cn/tags/ROP/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.uf4te.cn/tags/%E6%B2%99%E7%AE%B1%E7%BB%95%E8%BF%87/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1440,13 +1461,6 @@
   
   <url>
     <loc>https://www.uf4te.cn/tags/Shellcode/</loc>
-    <lastmod>2024-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.uf4te.cn/tags/x86%E6%B1%87%E7%BC%96/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1467,28 +1481,14 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/ORW/</loc>
+    <loc>https://www.uf4te.cn/tags/Pwntools/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E6%B2%99%E7%AE%B1%E7%BB%95%E8%BF%87/</loc>
-    <lastmod>2024-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.uf4te.cn/tags/Writeup/</loc>
-    <lastmod>2024-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.uf4te.cn/tags/ROP/</loc>
+    <loc>https://www.uf4te.cn/tags/x86%E6%B1%87%E7%BC%96/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1509,13 +1509,6 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.uf4te.cn/tags/Linux/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1523,14 +1516,14 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/VMware/</loc>
+    <loc>https://www.uf4te.cn/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/GDB/</loc>
+    <loc>https://www.uf4te.cn/tags/VMware/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1558,7 +1551,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</loc>
+    <loc>https://www.uf4te.cn/tags/GDB/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1573,6 +1566,13 @@
   
   <url>
     <loc>https://www.uf4te.cn/tags/%E5%9B%BA%E4%BB%B6%E8%A7%A3%E5%AF%86/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1609,13 +1609,6 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.uf4te.cn/categories/Linux%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1623,7 +1616,7 @@
   </url>
   
   <url>
-    <loc>https://www.uf4te.cn/categories/IOT%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90/</loc>
+    <loc>https://www.uf4te.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1631,6 +1624,13 @@
   
   <url>
     <loc>https://www.uf4te.cn/categories/CVE%E5%A4%8D%E7%8E%B0/</loc>
+    <lastmod>2024-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.uf4te.cn/categories/IOT%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90/</loc>
     <lastmod>2024-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
