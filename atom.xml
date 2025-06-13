@@ -110,9 +110,9 @@
     
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
     
-    <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
-    
     <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
+    
+    <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
     
   </entry>
   
