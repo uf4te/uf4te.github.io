@@ -106,13 +106,13 @@
     <category term="IOT固件分析" scheme="https://www.uf4te.cn/categories/IOT%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90/"/>
     
     
-    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
-    
     <category term="IOT" scheme="https://www.uf4te.cn/tags/IOT/"/>
     
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
     
     <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
+    
+    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
     
   </entry>
   
@@ -133,13 +133,13 @@
     <category term="CVE复现" scheme="https://www.uf4te.cn/categories/CVE%E5%A4%8D%E7%8E%B0/"/>
     
     
-    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
-    
     <category term="CVE" scheme="https://www.uf4te.cn/tags/CVE/"/>
     
     <category term="IOT" scheme="https://www.uf4te.cn/tags/IOT/"/>
     
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
+    
+    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
     
   </entry>
   
