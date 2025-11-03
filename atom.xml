@@ -33,13 +33,13 @@
     <category term="二进制漏洞利用" scheme="https://www.uf4te.cn/categories/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8/"/>
     
     
-    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
-    
-    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
+    <category term="CVE" scheme="https://www.uf4te.cn/tags/CVE/"/>
     
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
     
-    <category term="CVE" scheme="https://www.uf4te.cn/tags/CVE/"/>
+    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
+    
+    <category term="Pwn" scheme="https://www.uf4te.cn/tags/Pwn/"/>
     
   </entry>
   
@@ -106,15 +106,15 @@
     <category term="IoT固件分析" scheme="https://www.uf4te.cn/categories/IoT%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90/"/>
     
     
-    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
-    
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
-    
-    <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
     
     <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
     
+    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
+    
     <category term="交叉编译" scheme="https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/"/>
+    
+    <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
     
   </entry>
   
@@ -135,13 +135,13 @@
     <category term="CVE复现" scheme="https://www.uf4te.cn/categories/CVE%E5%A4%8D%E7%8E%B0/"/>
     
     
-    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
+    <category term="CVE" scheme="https://www.uf4te.cn/tags/CVE/"/>
     
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
     
-    <category term="CVE" scheme="https://www.uf4te.cn/tags/CVE/"/>
-    
     <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
+    
+    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
     
   </entry>
   
@@ -162,9 +162,9 @@
     <category term="IoT固件分析" scheme="https://www.uf4te.cn/categories/IoT%E5%9B%BA%E4%BB%B6%E5%88%86%E6%9E%90/"/>
     
     
-    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
-    
     <category term="QEMU" scheme="https://www.uf4te.cn/tags/QEMU/"/>
+    
+    <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
     
     <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
     
