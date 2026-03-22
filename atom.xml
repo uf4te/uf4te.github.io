@@ -110,11 +110,11 @@
     
     <category term="IoT" scheme="https://www.uf4te.cn/tags/IoT/"/>
     
+    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
+    
     <category term="GNS3" scheme="https://www.uf4te.cn/tags/GNS3/"/>
     
     <category term="交叉编译" scheme="https://www.uf4te.cn/tags/%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/"/>
-    
-    <category term="GDB" scheme="https://www.uf4te.cn/tags/GDB/"/>
     
   </entry>
   
